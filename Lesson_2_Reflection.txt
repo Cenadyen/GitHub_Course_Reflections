@@ -24,5 +24,7 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+	The result of merging the two branches together is a singular commit that has the added content from both branches together. It's represented the way that Udacity does it because the merged commit is technically parented by both of the branches.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
