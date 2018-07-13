@@ -28,4 +28,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When you want to do experimental changes or add a new feature that you are not quite sure whether or not it deserves a spot in your application. The benefits of separate branches is that there is a clear label/purpose to what the commits in the separate branch are trying to do. Making everything directly in master on the other hand has the benefit of being sent out right away after initial testing rather than having to do pull requests and making sure conflicts are not occuring within the file.
