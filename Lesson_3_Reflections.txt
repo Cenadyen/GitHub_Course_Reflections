@@ -23,7 +23,7 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+	Collaboration would likely be done via something like Dropbox or by transferring/emailing files back and forth between people. This would easier by ensuring that there is always a master copy within a local machine, but it would also be harder because of the amount of meetups in person that would need to occur to transfer the new files back into the old ones. Also the master would have to be manually edited instead of being simply merged as with VCS.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
